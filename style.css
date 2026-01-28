@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: brown;
+}
+label{
+    font-size: 1.4rem;
+}
+input{
+    background-color: black;
+    padding: 2px;
+    color: white;
+    font-size: 1rem;
+    border-radius: 4px;
+}
+button{
+    background-color: black;
+    padding: 2px;
+    color: white;
+    font-size: 1.4rem;
+    border-radius: 6px;
+}
+hr{
+border: 0px;
+border-top: solid black 2px;
+}
+#resposta{
+    background-color: rgb(104, 15, 15);
+    border-radius: 9px;
+    border: solid black 1px;
+}
