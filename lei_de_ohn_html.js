@@ -14,7 +14,11 @@ function calcularLeiDeOhm(resistencia, corrente){
     // console.log(`A tensão é de ${tensao} volts para uma resistência de ${resistencia} e uma corrente de ${corrente}`)
 
     resposta.innerHTML = ``
-    resposta.innerHTML += ` A tensão é de ${tensao} volts para uma resistência de ${resistencia} ohms e uma corrente de ${corrente} amperes`
+    resposta.innerHTML += ` A tensão é de ${tensao}V`
+    resposta.style.fontSize = '1.6rem'
+    resposta.style.fontWeight = 'bold'
+    resposta.style.fontFamily = 'Lucida Sans'
+    resposta.innerHTML += '<hr>'
     
 
  })
