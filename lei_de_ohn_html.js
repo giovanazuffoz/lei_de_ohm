@@ -18,3 +18,4 @@ function calcularLeiDeOhm(resistencia, corrente){
     
 
  })
+ //teste de clonagem
